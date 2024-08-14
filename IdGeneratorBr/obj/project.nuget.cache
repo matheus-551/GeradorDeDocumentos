@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynjcEIB+d1wjNcwHc+d/G9E3MkMYcUaSlEEDAdfSivPh6O0fdnlQHAYi5oDPFOkH5u9k1sKfrjfbJyegxLhi6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Matheus\\projects\\IdGeneratorBr\\IdGeneratorBr\\IdGeneratorBr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
